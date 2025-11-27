@@ -2,4 +2,4 @@
 
 ## Cómo estás
 
-Todo bien Ok... "y vos?"
+Me dedico a Vide Coding desde 2024
